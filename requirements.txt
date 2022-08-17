@@ -1,0 +1,8 @@
+alpaca-trade-api==2.3.0
+matplotlib==3.5.3
+numpy==1.22.4
+openpyxl==3.0.10
+pandas==1.4.2
+Werkzeug==2.1.2
+yahoo-fin==0.8.9.1
+yahoo-finance==1.4.0
